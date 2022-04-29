@@ -1,15 +1,14 @@
 # **HARMONIC SERIES**
 
-# Information
+## INFORMATION
 
 * **This program is designed to find harmonic serial numbers.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
-
+## CONTENTS
 * The variable **n** is defined with int and the variable **result** with double.
 
 * Scanner class created for user to enter numbers.
@@ -18,9 +17,7 @@
 
 * The result is found using the division operation of the number entered with the for loop.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -69,13 +66,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/HarmonicSeries.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
